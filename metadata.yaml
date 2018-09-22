@@ -1,0 +1,38 @@
+_repo: Teresa-of-Watling-Street-A-Fantasia-on-Modern-Themes_55114
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gillett, Frank
+    aliases:
+    - Gillett, Edward Frank
+    - Gillett, F.
+    birthdate: 1874
+    deathdate: 1927
+    gutenberg_agent_id: '40046'
+    url: http://www.gutenberg.org/2009/agents/40046
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, Enoch Arnold
+    - Bennett, E. Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: ''
+gutenberg_issued: '2017-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Teresa of Watling Street
+
+  A Fantasia on Modern Themes'
+url: http://www.gutenberg.org/ebooks/55114
